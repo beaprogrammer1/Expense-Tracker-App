@@ -1,0 +1,7 @@
+{
+  "name": "Personal Expense Tracker (PET)",
+  "description": "A comprehensive expense management application featuring secure authentication, real-time cloud synchronization, geolocation tagging, and visual spending analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
