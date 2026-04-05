@@ -264,11 +264,11 @@ without restriction, including without limitation the rights to use, copy,
 modify, merge, publish, distribute, sublicense, and/or sell copies.
 
 ### 👨‍💻 Author
-<div align="center">
-Obaid Ur Rehman
+
+**Obaid Ur Rehman**
 
 https://img.shields.io/badge/GitHub-beaprogrammer1-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-</div>
+
