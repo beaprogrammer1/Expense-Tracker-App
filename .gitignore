@@ -1,0 +1,27 @@
+# Built files
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+
+# Keystore files (security)
+*.jks
+*.keystore
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+*.swp
+*.DS_Store
+
+# Secrets
+secrets.properties
+google_maps_api.xml
+google-services.json
+
+# Logs
+*.log
