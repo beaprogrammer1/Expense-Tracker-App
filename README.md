@@ -35,7 +35,19 @@ An Android mobile application for tracking personal expenses with geolocation, c
 
 
 
-## 🚀 How to Run
-1. Clone this repo:
+## 🔧 Setup Instructions (Detailed)
+1. 1. Clone this repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/ExpenseTrackerApp.git
+2. Open in Android Studio
+3. Add your `google_maps_api.xml` in `app/src/debug/res/values/`
+4. Add `google-services.json` in `app/` directory
+5. Sync Gradle and Run
+
+## 🏗️ Architecture
+- **Design Pattern**: MVVM, Repository, Singleton
+- **Database**: Room (SQLite)
+- **Authentication**: Firebase Auth
+
+
+
