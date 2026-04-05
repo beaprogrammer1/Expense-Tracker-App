@@ -207,7 +207,7 @@ const testResults = {
 | TC-08 | Invalid amount input | Validation error shown | ✅ |
 | TC-09 | Search functionality | Relevant results displayed | ✅ |
 | TC-10 | Export data | CSV file generated | ✅ |
-```
+
 
 ## 📁 Project Structure
 
