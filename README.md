@@ -243,14 +243,15 @@ Expense-Tracker-App/
 
 ```
 
-### ❓ Troubleshooting
+## ❓ Troubleshooting
 
-Issue	Solution
-🔴 API key not working	Ensure .env.local has GEMINI_API_KEY=your_key
-🟠 Expenses disappearing	Check browser localStorage clearance settings
-🟡 App not loading	Run npm install again and restart dev server
-🟢 AI features not responding	Verify internet connection for Gemini API
-🔵 Styling broken	Clear browser cache and hard refresh (Ctrl+F5)
+| Issue | Solution |
+|-------|----------|
+| 🔴 API key not working | Ensure `.env.local` has `GEMINI_API_KEY=your_key` |
+| 🟠 Expenses disappearing | Check browser localStorage clearance settings |
+| 🟡 App not loading | Run `npm install` again and restart dev server |
+| 🟢 AI features not responding | Verify internet connection for Gemini API |
+| 🔵 Styling broken | Clear browser cache and hard refresh (Ctrl+F5) |
 
 ### 📄 License
 MIT License
